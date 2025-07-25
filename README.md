@@ -12,7 +12,6 @@
 ### Important:
 
  - This is a ridiculous app that is very expensive to run
- -  to run our expensive AI
  - Run this on google colab to use their GPUs free
  - Restart runtime: Sometimes fixes threading issues
 ---
