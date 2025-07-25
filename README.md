@@ -8,6 +8,20 @@
  - Makes prophetic declarations about rubber ducks and time paradoxes
  - Dies dramatically with a spectacular final masterpiece
 
+
+### Important:
+
+ - This is a ridiculous app that is very expensive to run
+ -  to run our expensive AI
+ - Run this on google colab to use their GPUs free
+ - Restart runtime: Sometimes fixes threading issues
+---
+##### Why does this exist?
+*The journey is more fun than the destination*
+
 > "I came, I saw, I computed. Veni, vidi, calculavi."
-> The Omniscient Dream Weaver's final words
+> The end
+
+
+
 
