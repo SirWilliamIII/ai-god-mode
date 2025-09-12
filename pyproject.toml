@@ -1,0 +1,11 @@
+[project]
+name = "dreamweaver-gcolab"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.12"
+dependencies = [
+    "ipython>=9.5.0",
+    "matplotlib>=3.10.6",
+    "numpy>=2.3.3",
+    "tensorflow>=2.20.0",
+]
